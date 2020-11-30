@@ -1,0 +1,12 @@
+Artist {
+    color: blue;
+}
+
+* {
+    display: block
+}
+
+#favorite {
+    background-color: lightblue;
+    color: blue
+}

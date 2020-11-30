@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Music.css"?>
+<Music>
+    <Album>
+        <Name>DAUGHTRY</Name>
+        <Artist>Daughtry</Artist>
+        <Year>@006</Year>
+    </Album>
+    <Album>
+        <Name>AWAKE</Name>
+        <Artist>Josh Groban</Artist>
+        <Year>2006</Year>
+    </Album>
+    <Album>
+        <Name id="favorite">CONTINUM</Name>
+        <Artist>Continum</Artist>
+        <Year>2006</Year>
+    </Album>
+</Music>
